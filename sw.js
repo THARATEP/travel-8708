@@ -1,5 +1,5 @@
 // Service worker: ให้เปิดใช้งานได้แม้ไม่มีอินเทอร์เน็ต (ข้อมูลยังเก็บในเบราว์เซอร์เหมือนเดิม)
-const CACHE = 'travel-8708-v1';
+const CACHE = 'travel-8708-v2';
 const CORE = ['./', './index.html', './manifest.webmanifest',
   './icons/icon-192.png', './icons/icon-512.png', './icons/icon-maskable-192.png',
   './icons/icon-maskable-512.png', './icons/apple-touch-icon.png', './icons/favicon-32.png', './icons/icon.svg'];
